@@ -1,4 +1,4 @@
-Blow is the sample pic of this project.
+Below is the sample pic of this project.
 
 
 
